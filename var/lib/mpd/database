@@ -1,0 +1,1123 @@
+info_begin
+format: 1
+mpd_version: 0.18.12
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: 0008902044
+mtime: 6018
+begin: 0008902044
+song_begin: 01 - Immer lustig in Bullerbü. Das Hörspiel.mp3
+Time: 457
+Artist: Astrid Lindgren
+Title: Immer lustig in Bullerbü. Das Hörspiel
+Album: Wiedergabeliste
+Track: 1
+Genre: Hörbuch
+mtime: 5987
+song_end
+song_begin: 02 - Immer lustig in Bullerbü. Das Hörspiel.mp3
+Time: 457
+Artist: Astrid Lindgren
+Title: Immer lustig in Bullerbü. Das Hörspiel
+Album: Wiedergabeliste
+Track: 2
+Genre: Hörbuch
+mtime: 5998
+song_end
+song_begin: 03 - Immer lustig in Bullerbü. Das Hörspiel.mp3
+Time: 457
+Artist: Astrid Lindgren
+Title: Immer lustig in Bullerbü. Das Hörspiel
+Album: Wiedergabeliste
+Track: 3
+Genre: Hörbuch
+mtime: 5930
+song_end
+song_begin: 04 - Immer lustig in Bullerbü. Das Hörspiel.mp3
+Time: 457
+Artist: Astrid Lindgren
+Title: Immer lustig in Bullerbü. Das Hörspiel
+Album: Wiedergabeliste
+Track: 4
+Genre: Hörbuch
+mtime: 5941
+song_end
+song_begin: 05 - Immer lustig in Bullerbü. Das Hörspiel.mp3
+Time: 457
+Artist: Astrid Lindgren
+Title: Immer lustig in Bullerbü. Das Hörspiel
+Album: Wiedergabeliste
+Track: 5
+Genre: Hörbuch
+mtime: 5954
+song_end
+song_begin: 06 - Immer lustig in Bullerbü. Das Hörspiel.mp3
+Time: 457
+Artist: Astrid Lindgren
+Title: Immer lustig in Bullerbü. Das Hörspiel
+Album: Wiedergabeliste
+Track: 6
+Genre: Hörbuch
+mtime: 5966
+song_end
+song_begin: 07 - Immer lustig in Bullerbü. Das Hörspiel.mp3
+Time: 454
+Artist: Astrid Lindgren
+Title: Immer lustig in Bullerbü. Das Hörspiel
+Album: Wiedergabeliste
+Track: 7
+Genre: Hörbuch
+mtime: 5977
+song_end
+end: 0008902044
+directory: 0008953119
+mtime: 2853
+begin: 0008953119
+song_begin: 01 Walpurgisnacht.mp3
+Time: 616
+Artist: Otfried Preußler
+AlbumArtist: Otfried Preußler
+Title: Walpurgisnacht
+Album: 01: Die kleine Hexe (Neuproduktion)
+Track: 1/8
+Date: 2008
+Genre: Spoken & Audio
+Composer: Marco Nola
+Disc: 1/1
+mtime: 2845
+song_end
+song_begin: 02 Die kleine Hexe will sich r?chen.mp3
+Time: 330
+Artist: Otfried Preußler
+AlbumArtist: Otfried Preußler
+Title: Die kleine Hexe will sich rächen
+Album: 01: Die kleine Hexe (Neuproduktion)
+Track: 2/8
+Date: 2008
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2846
+song_end
+song_begin: 03 Hexenlied.mp3
+Time: 103
+Artist: Otfried Preußler
+AlbumArtist: Otfried Preußler
+Title: Hexenlied
+Album: 01: Die kleine Hexe (Neuproduktion)
+Track: 3/8
+Date: 2008
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2846
+song_end
+song_begin: 04 Der neue Besen.mp3
+Time: 413
+Artist: Otfried Preußler
+AlbumArtist: Otfried Preußler
+Title: Der neue Besen
+Album: 01: Die kleine Hexe (Neuproduktion)
+Track: 4/8
+Date: 2008
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2847
+song_end
+song_begin: 05 Der bekehrte F?rster.mp3
+Time: 501
+Artist: Otfried Preußler
+AlbumArtist: Otfried Preußler
+Title: Der bekehrte Förster
+Album: 01: Die kleine Hexe (Neuproduktion)
+Track: 5/8
+Date: 2008
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2848
+song_end
+song_begin: 06 Duftende Papierblumen.mp3
+Time: 376
+Artist: Otfried Preußler
+AlbumArtist: Otfried Preußler
+Title: Duftende Papierblumen
+Album: 01: Die kleine Hexe (Neuproduktion)
+Track: 6/8
+Date: 2008
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2849
+song_end
+song_begin: 07 Die verhexte Peitsche.mp3
+Time: 395
+Artist: Otfried Preußler
+AlbumArtist: Otfried Preußler
+Title: Die verhexte Peitsche
+Album: 01: Die kleine Hexe (Neuproduktion)
+Track: 7/8
+Date: 2008
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2851
+song_end
+song_begin: 08 Das Sch?tzenfest.mp3
+Time: 811
+Artist: Otfried Preußler
+AlbumArtist: Otfried Preußler
+Title: Das Schützenfest
+Album: 01: Die kleine Hexe (Neuproduktion)
+Track: 8/8
+Date: 2008
+Genre: Spoken & Audio
+Composer: Marco Nola
+Disc: 1/1
+mtime: 2853
+song_end
+end: 0008953119
+directory: 0008955324
+mtime: 209
+begin: 0008955324
+song_begin: 01 Upside Down.mp3
+Time: 208
+Artist: Jack Johnson
+AlbumArtist: Jack Johnson and Friends
+Title: Upside Down
+Album: Curious George: Sing-A-Longs and Lullabies for the Film
+Track: 1
+Date: 2006
+Genre: Soundtrack
+Composer: Jack Johnson
+mtime: 675
+song_end
+song_begin: 03 People Watching.mp3
+Time: 199
+Artist: Jack Johnson
+AlbumArtist: Jack Johnson and Friends
+Title: People Watching
+Album: Curious George: Sing-A-Longs and Lullabies for the Film
+Track: 3
+Date: 2006
+Genre: Soundtrack
+Composer: Jack Johnson
+mtime: 206
+song_end
+song_begin: 02 Monkey Business.mp3
+Time: 212
+Artist: The BossHoss
+AlbumArtist: The BossHoss
+Title: Monkey Business
+Album: Stallion Battalion
+Track: 02
+Date: 2007
+Genre: Country
+mtime: 11719
+song_end
+end: 0008955324
+directory: 0008963051
+mtime: 3704
+begin: 0008963051
+song_begin: 01 Bullerbü-Titelsong.mp3
+Time: 71
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Bullerbü-Titelsong
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 1/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 1977
+song_end
+song_begin: 02 Wir Kinder Aus Bullerbü.mp3
+Time: 255
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Wir Kinder Aus Bullerbü
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 2/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 2156
+song_end
+song_begin: 03 Brüder Sind Anstrengend.mp3
+Time: 203
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Brüder Sind Anstrengend
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 3/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 2333
+song_end
+song_begin: 04 Was Wir Werden Wollen, Wenn Wir G.mp3
+Time: 238
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Was Wir Werden Wollen, Wenn Wir Groß Sind
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 4/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 2582
+song_end
+song_begin: 05 Wir Verziehen Rüben.mp3
+Time: 226
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Wir Verziehen Rüben
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 5/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 2862
+song_end
+song_begin: 06 Die Jungen Können Kein Geheimnis.mp3
+Time: 536
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Die Jungen Können Kein Geheimnis Haben
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 6/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 3653
+song_end
+song_begin: 07 Als Inga Und Ich Weglaufen Wollte.mp3
+Time: 604
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Als Inga Und Ich Weglaufen Wollten
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 7/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 1680
+song_end
+song_begin: 08 Ich Habe Es Ja Gesagt_ Jungen Kön.mp3
+Time: 353
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Ich Habe Es Ja Gesagt: Jungen Können Kein Geheimnis Haben!
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 8/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 1726
+song_end
+song_begin: 09 Die Schule Fängt Wieder An.mp3
+Time: 319
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Die Schule Fängt Wieder An
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 9/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 1860
+song_end
+song_begin: 10 Bullerbü-Titelsong.mp3
+Time: 145
+Artist: Astrid Lindgren
+AlbumArtist: Astrid Lindgren
+Title: Bullerbü-Titelsong
+Album: Wir Kinder Aus Bullerbü - Das Hörspiel
+Track: 10/10
+Date: 2013
+Genre: Spoken & Audio
+Composer: Dieter Faber/Frank Oberpichler
+Disc: 1/1
+mtime: 1945
+song_end
+end: 0008963051
+directory: 0009002759
+mtime: 1061
+begin: 0009002759
+song_begin: 01 Titelsong.mp3
+Time: 89
+Artist: Bibi Blocksberg
+AlbumArtist: Bibi Blocksberg
+Title: Titelsong
+Album: Folge 38 - Die Weihnachtsmänner
+Track: 1/8
+Date: 2011
+Genre: Children's
+Disc: 1/1
+mtime: 255
+song_end
+song_begin: 02 Folge 38 - Kapitel 1_ Volles Haus.mp3
+Time: 196
+Artist: Bibi Blocksberg
+AlbumArtist: Bibi Blocksberg
+Title: Folge 38 - Kapitel 1: Volles Haus bei Blocksbergs
+Album: Folge 38 - Die Weihnachtsmänner
+Track: 2/8
+Date: 2011
+Genre: Children's
+Disc: 1/1
+mtime: 259
+song_end
+song_begin: 03 Folge 38 - Kapitel 2_ Weihnachten.mp3
+Time: 425
+Artist: Bibi Blocksberg
+AlbumArtist: Bibi Blocksberg
+Title: Folge 38 - Kapitel 2: Weihnachten in Gefahr
+Album: Folge 38 - Die Weihnachtsmänner
+Track: 3/8
+Date: 2011
+Genre: Children's
+Disc: 1/1
+mtime: 270
+song_end
+song_begin: 04 Folge 38 - Kapitel 3_ Nießende We.mp3
+Time: 463
+Artist: Bibi Blocksberg
+AlbumArtist: Bibi Blocksberg
+Title: Folge 38 - Kapitel 3: Nießende Weihnachtsmänner
+Album: Folge 38 - Die Weihnachtsmänner
+Track: 4/8
+Date: 2011
+Genre: Children's
+Disc: 1/1
+mtime: 218
+song_end
+song_begin: 05 Folge 38 - Kapitel 4_ Bibis Erkäl.mp3
+Time: 321
+Artist: Bibi Blocksberg
+AlbumArtist: Bibi Blocksberg
+Title: Folge 38 - Kapitel 4: Bibis Erkältungskur
+Album: Folge 38 - Die Weihnachtsmänner
+Track: 5/8
+Date: 2011
+Genre: Children's
+Disc: 1/1
+mtime: 226
+song_end
+song_begin: 06 Folge 38 - Kapitel 5_ Karla flieg.mp3
+Time: 530
+Artist: Bibi Blocksberg
+AlbumArtist: Bibi Blocksberg
+Title: Folge 38 - Kapitel 5: Karla fliegt zum Nordpol
+Album: Folge 38 - Die Weihnachtsmänner
+Track: 6/8
+Date: 2011
+Genre: Children's
+Disc: 1/1
+mtime: 238
+song_end
+song_begin: 07 Folge 38 - Kapitel 6_ Im Rentiers.mp3
+Time: 285
+Artist: Bibi Blocksberg
+AlbumArtist: Bibi Blocksberg
+Title: Folge 38 - Kapitel 6: Im Rentierschlitten
+Album: Folge 38 - Die Weihnachtsmänner
+Track: 7/8
+Date: 2011
+Genre: Children's
+Disc: 1/1
+mtime: 247
+song_end
+song_begin: 08 Folge 38 - Kapitel 7_ Ein fröhlic.mp3
+Time: 265
+Artist: Bibi Blocksberg
+AlbumArtist: Bibi Blocksberg
+Title: Folge 38 - Kapitel 7: Ein fröhliches Fest
+Album: Folge 38 - Die Weihnachtsmänner
+Track: 8/8
+Date: 2011
+Genre: Children's
+Disc: 1/1
+mtime: 253
+song_end
+end: 0009002759
+directory: 0009002973
+mtime: 7927
+begin: 0009002973
+song_begin: 01 Lied für Bobo.mp3
+Time: 175
+Artist: Markus Osterwalder
+AlbumArtist: Markus Osterwalder
+Title: Lied für Bobo
+Album: Bobo Siebenschläfer
+Track: 1/9
+Date: 2002
+Genre: Children's
+Composer: Ulrich Maske
+Disc: 1/1
+mtime: 7850
+song_end
+song_begin: 02 Bei Bobo zu Haus.mp3
+Time: 177
+Artist: Markus Osterwalder
+AlbumArtist: Markus Osterwalder
+Title: Bei Bobo zu Haus
+Album: Bobo Siebenschläfer
+Track: 2/9
+Date: 2002
+Genre: Children's
+Composer: Ulrich Maske
+Disc: 1/1
+mtime: 7860
+song_end
+song_begin: 03 Bobo geht einkaufen.mp3
+Time: 192
+Artist: Markus Osterwalder
+AlbumArtist: Markus Osterwalder
+Title: Bobo geht einkaufen
+Album: Bobo Siebenschläfer
+Track: 3/9
+Date: 2002
+Genre: Children's
+Composer: Ulrich Maske
+Disc: 1/1
+mtime: 7794
+song_end
+song_begin: 04 Bobo im Zoo.mp3
+Time: 195
+Artist: Markus Osterwalder
+AlbumArtist: Markus Osterwalder
+Title: Bobo im Zoo
+Album: Bobo Siebenschläfer
+Track: 4/9
+Date: 2002
+Genre: Children's
+Composer: Ulrich Maske
+Disc: 1/1
+mtime: 7802
+song_end
+song_begin: 05 Bobo auf dem Spielplatz.mp3
+Time: 168
+Artist: Markus Osterwalder
+AlbumArtist: Markus Osterwalder
+Title: Bobo auf dem Spielplatz
+Album: Bobo Siebenschläfer
+Track: 5/9
+Date: 2002
+Genre: Children's
+Composer: Ulrich Maske
+Disc: 1/1
+mtime: 7808
+song_end
+song_begin: 06 Bobo ist krank.mp3
+Time: 214
+Artist: Markus Osterwalder
+AlbumArtist: Markus Osterwalder
+Title: Bobo ist krank
+Album: Bobo Siebenschläfer
+Track: 6/9
+Date: 2002
+Genre: Children's
+Composer: Ulrich Maske
+Disc: 1/1
+mtime: 7816
+song_end
+song_begin: 07 Bobo im Planschbecken.mp3
+Time: 193
+Artist: Markus Osterwalder
+AlbumArtist: Markus Osterwalder
+Title: Bobo im Planschbecken
+Album: Bobo Siebenschläfer
+Track: 7/9
+Date: 2002
+Genre: Children's
+Composer: Ulrich Maske
+Disc: 1/1
+mtime: 7823
+song_end
+song_begin: 08 Bobo hat Geburtstag.mp3
+Time: 309
+Artist: Markus Osterwalder
+AlbumArtist: Markus Osterwalder
+Title: Bobo hat Geburtstag
+Album: Bobo Siebenschläfer
+Track: 8/9
+Date: 2002
+Genre: Children's
+Composer: Ulrich Maske
+Disc: 1/1
+mtime: 7836
+song_end
+song_begin: 09 Lied für Bobo.mp3
+Time: 176
+Artist: Markus Osterwalder
+AlbumArtist: Markus Osterwalder
+Title: Lied für Bobo
+Album: Bobo Siebenschläfer
+Track: 9/9
+Date: 2002
+Genre: Children's
+Composer: Ulrich Maske
+Disc: 1/1
+mtime: 7843
+song_end
+end: 0009002973
+directory: 0009009639
+mtime: 2900
+begin: 0009009639
+song_begin: 01 Im Herbst.mp3
+Time: 92
+Artist: Carmen Hatschi
+AlbumArtist: Diverse
+Title: Im Herbst
+Album: Ich Mag Den Herbst
+Track: 1/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2886
+song_end
+song_begin: 02 Wind, Wind Sause.mp3
+Time: 164
+Artist: Detlev Jöcker & Die Menschenkinder
+AlbumArtist: Diverse
+Title: Wind, Wind Sause
+Album: Ich Mag Den Herbst
+Track: 2/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2886
+song_end
+song_begin: 03 Endlich Herbst!.mp3
+Time: 170
+Artist: Kiddys Corner Band
+AlbumArtist: Diverse
+Title: Endlich Herbst!
+Album: Ich Mag Den Herbst
+Track: 3/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2887
+song_end
+song_begin: 04 Drachen Im Wind.mp3
+Time: 206
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Diverse
+Title: Drachen Im Wind
+Album: Ich Mag Den Herbst
+Track: 4/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2889
+song_end
+song_begin: 05 Tripp, Trapp, Tropp! Ein Herbstli.mp3
+Time: 144
+Artist: Reinhard Horn
+AlbumArtist: Diverse
+Title: Tripp, Trapp, Tropp! Ein Herbstliches Regenlied
+Album: Ich Mag Den Herbst
+Track: 5/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2890
+song_end
+song_begin: 06 Komm, Wir Machen Eine Fahrradtour.mp3
+Time: 167
+Artist: Volker Rosin
+AlbumArtist: Diverse
+Title: Komm, Wir Machen Eine Fahrradtour
+Album: Ich Mag Den Herbst
+Track: 6/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2892
+song_end
+song_begin: 07 Drachenlied.mp3
+Time: 188
+Artist: Stephen Janetzko
+AlbumArtist: Diverse
+Title: Drachenlied
+Album: Ich Mag Den Herbst
+Track: 7/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2893
+song_end
+song_begin: 08 Sternschnuppen.mp3
+Time: 190
+Artist: Matthias Meyer-Göllner
+AlbumArtist: Diverse
+Title: Sternschnuppen
+Album: Ich Mag Den Herbst
+Track: 8/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2894
+song_end
+song_begin: 09 Kartoffel-Song.mp3
+Time: 166
+Artist: Reinhard Horn
+AlbumArtist: Diverse
+Title: Kartoffel-Song
+Album: Ich Mag Den Herbst
+Track: 9/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2895
+song_end
+song_begin: 10 Halloween.mp3
+Time: 126
+Artist: Christian Rau
+AlbumArtist: Diverse
+Title: Halloween
+Album: Ich Mag Den Herbst
+Track: 10/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2895
+song_end
+song_begin: 11 Die Spukpolonaise.mp3
+Time: 237
+Artist: Michi Vogdt
+AlbumArtist: Diverse
+Title: Die Spukpolonaise
+Album: Ich Mag Den Herbst
+Track: 11/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2896
+song_end
+song_begin: 12 Laternelied.mp3
+Time: 144
+Artist: Randale
+AlbumArtist: Diverse
+Title: Laternelied
+Album: Ich Mag Den Herbst
+Track: 12/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2897
+song_end
+song_begin: 13 Ich Geh Mit Meiner Laterne.mp3
+Time: 220
+Artist: Simone Sommerland, Karsten Glück & Die Kita-Frösche
+AlbumArtist: Diverse
+Title: Ich Geh Mit Meiner Laterne
+Album: Ich Mag Den Herbst
+Track: 13/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2897
+song_end
+song_begin: 14 Laternenzeit, Laternenzeit.mp3
+Time: 155
+Artist: Kati Breuer
+AlbumArtist: Diverse
+Title: Laternenzeit, Laternenzeit
+Album: Ich Mag Den Herbst
+Track: 14/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2898
+song_end
+song_begin: 15 Die B?chermaus.mp3
+Time: 192
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Diverse
+Title: Die Büchermaus
+Album: Ich Mag Den Herbst
+Track: 15/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2899
+song_end
+song_begin: 16 Let's Learn English.mp3
+Time: 100
+Artist: Robert Metcalf & Berlin British School
+AlbumArtist: Diverse
+Title: Let's Learn English
+Album: Ich Mag Den Herbst
+Track: 16/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2899
+song_end
+song_begin: 17 It's Raining, It's Pouring.mp3
+Time: 83
+Artist: Simone Sommerland, Karsten Glück & Die Kita-Frösche
+AlbumArtist: Diverse
+Title: It's Raining, It's Pouring
+Album: Ich Mag Den Herbst
+Track: 17/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2899
+song_end
+song_begin: 18 My Bonnie Lies Over The Ocean.mp3
+Time: 194
+Artist: Alyssa Kogler & Little Bunch Singers
+AlbumArtist: Diverse
+Title: My Bonnie Lies Over The Ocean
+Album: Ich Mag Den Herbst
+Track: 18/18
+Date: 2014
+Genre: Children's
+Disc: 1/1
+mtime: 2900
+song_end
+end: 0009009639
+directory: 0009011469
+mtime: 2909
+begin: 0009011469
+song_begin: 01 Die R?uberfreundin (Meike Haas).mp3
+Time: 476
+Artist: Andreas Steinhöfel
+AlbumArtist: Andreas Steinhöfel
+Title: Die Räuberfreundin (Meike Haas)
+Album: Geschichten Über Die Nacht
+Track: 1/4
+Date: 2014
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2902
+song_end
+song_begin: 02 Das Gespenst (Antje Herden).mp3
+Time: 555
+Artist: Andreas Steinhöfel
+AlbumArtist: Andreas Steinhöfel
+Title: Das Gespenst (Antje Herden)
+Album: Geschichten Über Die Nacht
+Track: 2/4
+Date: 2014
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2905
+song_end
+song_begin: 03 Marie Und Der Teufel (Anne Maar).mp3
+Time: 525
+Artist: Andreas Steinhöfel
+AlbumArtist: Andreas Steinhöfel
+Title: Marie Und Der Teufel (Anne Maar)
+Album: Geschichten Über Die Nacht
+Track: 3/4
+Date: 2014
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2906
+song_end
+song_begin: 04 Die Schlafr?uber (Franziska Wolff.mp3
+Time: 595
+Artist: Andreas Steinhöfel
+AlbumArtist: Andreas Steinhöfel
+Title: Die Schlafräuber (Franziska Wolffheim)
+Album: Geschichten Über Die Nacht
+Track: 4/4
+Date: 2014
+Genre: Spoken & Audio
+Disc: 1/1
+mtime: 2909
+song_end
+end: 0009011469
+directory: 0009014713
+mtime: 4274
+begin: 0009014713
+song_begin: 01 - Mehr von uns Kindern aus Bullerbü.mp3
+Time: 474
+Artist: Astrid Lindgren
+Title: Mehr von uns Kindern aus Bullerbü
+Album: Burn
+Track: 1
+Genre: Hörbuch
+mtime: 5908
+song_end
+song_begin: 02 - Mehr von uns Kindern aus Bullerbü.mp3
+Time: 474
+Artist: Astrid Lindgren
+Title: Mehr von uns Kindern aus Bullerbü
+Album: Burn
+Track: 2
+Genre: Hörbuch
+mtime: 5912
+song_end
+song_begin: 03 - Mehr von uns Kindern aus Bullerbü.mp3
+Time: 474
+Artist: Astrid Lindgren
+Title: Mehr von uns Kindern aus Bullerbü
+Album: Burn
+Track: 3
+Genre: Hörbuch
+mtime: 5880
+song_end
+song_begin: 04 - Mehr von uns Kindern aus Bullerbü.mp3
+Time: 474
+Artist: Astrid Lindgren
+Title: Mehr von uns Kindern aus Bullerbü
+Album: Burn
+Track: 4
+Genre: Hörbuch
+mtime: 5885
+song_end
+song_begin: 05 - Mehr von uns Kindern aus Bullerbü.mp3
+Time: 474
+Artist: Astrid Lindgren
+Title: Mehr von uns Kindern aus Bullerbü
+Album: Burn
+Track: 5
+Genre: Hörbuch
+mtime: 5893
+song_end
+song_begin: 06 - Mehr von uns Kindern aus Bullerbü.mp3
+Time: 474
+Artist: Astrid Lindgren
+Title: Mehr von uns Kindern aus Bullerbü
+Album: Burn
+Track: 6
+Genre: Hörbuch
+mtime: 5898
+song_end
+song_begin: 07 - Mehr von uns Kindern aus Bullerbü.mp3
+Time: 473
+Artist: Astrid Lindgren
+Title: Mehr von uns Kindern aus Bullerbü
+Album: Burn
+Track: 7
+Genre: Hörbuch
+mtime: 5903
+song_end
+end: 0009014713
+directory: 0009015255
+mtime: 6388
+begin: 0009015255
+song_begin: 01 Kommt, wir wolln Laterne laufen.mp3
+Time: 225
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Kommt, wir wolln Laterne laufen
+Album: Kommt, wir wolln Laterne laufen
+Track: 1/15
+Date: 2013
+Genre: Children's
+Composer: Rolf Zuckowski
+Disc: 1/1
+mtime: 6309
+song_end
+song_begin: 02 Bunt sind schon die Wälder.mp3
+Time: 141
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Bunt sind schon die Wälder
+Album: Kommt, wir wolln Laterne laufen
+Track: 2/15
+Date: 2013
+Genre: Children's
+Composer: Traditional
+Disc: 1/1
+mtime: 6315
+song_end
+song_begin: 03 Danke.mp3
+Time: 157
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Danke
+Album: Kommt, wir wolln Laterne laufen
+Track: 3/15
+Date: 2013
+Genre: Children's
+Composer: Rolf Zuckowski
+Disc: 1/1
+mtime: 6320
+song_end
+song_begin: 04 Kleiner, weißer Kieselstein.mp3
+Time: 188
+Artist: Rale und ihr Kinderchor
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Kleiner, weißer Kieselstein
+Album: Kommt, wir wolln Laterne laufen
+Track: 4/15
+Date: 2013
+Genre: Children's
+Composer: Rale Oberpichler
+Disc: 1/1
+mtime: 6328
+song_end
+song_begin: 05 Drachen im Wind.mp3
+Time: 206
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Drachen im Wind
+Album: Kommt, wir wolln Laterne laufen
+Track: 5/15
+Date: 2013
+Genre: Children's
+Composer: Rolf Zuckowski
+Disc: 1/1
+mtime: 6334
+song_end
+song_begin: 06 Windmühlentanz.mp3
+Time: 163
+Artist: Die Rinks
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Windmühlentanz
+Album: Kommt, wir wolln Laterne laufen
+Track: 6/15
+Date: 2013
+Genre: Children's
+Composer: Ute Rink
+Disc: 1/1
+mtime: 6340
+song_end
+song_begin: 07 Jane und John.mp3
+Time: 203
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Jane und John
+Album: Kommt, wir wolln Laterne laufen
+Track: 7/15
+Date: 2013
+Genre: Children's
+Composer: Traditional
+Disc: 1/1
+mtime: 6347
+song_end
+song_begin: 08 Elfen und Feen.mp3
+Time: 207
+Artist: Rale Oberpichler/Rolf Zuckowski
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Elfen und Feen
+Album: Kommt, wir wolln Laterne laufen
+Track: 8/15
+Date: 2013
+Genre: Children's
+Composer: Frank Oberpichler
+Disc: 1/1
+mtime: 6354
+song_end
+song_begin: 09 Riesenglück.mp3
+Time: 260
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Riesenglück
+Album: Kommt, wir wolln Laterne laufen
+Track: 9/15
+Date: 2013
+Genre: Children's
+Composer: Rolf Zuckowski
+Disc: 1/1
+mtime: 6263
+song_end
+song_begin: 10 Es tanzt ein Bi-Ba-Butzemann.mp3
+Time: 121
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Es tanzt ein Bi-Ba-Butzemann
+Album: Kommt, wir wolln Laterne laufen
+Track: 10/15
+Date: 2013
+Genre: Children's
+Composer: Traditional
+Disc: 1/1
+mtime: 6266
+song_end
+song_begin: 11 Was zieh' ich an_.mp3
+Time: 182
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Was zieh' ich an?
+Album: Kommt, wir wolln Laterne laufen
+Track: 11/15
+Date: 2013
+Genre: Children's
+Composer: Rolf Zuckowski
+Disc: 1/1
+mtime: 6273
+song_end
+song_begin: 12 Das Wetter.mp3
+Time: 155
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Das Wetter
+Album: Kommt, wir wolln Laterne laufen
+Track: 12/15
+Date: 2013
+Genre: Children's
+Composer: Rolf Zuckowski
+Disc: 1/1
+mtime: 6279
+song_end
+song_begin: 13 Zuhause.mp3
+Time: 213
+Artist: Rale mit Linus und den kleinen Riesen
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Zuhause
+Album: Kommt, wir wolln Laterne laufen
+Track: 13/15
+Date: 2013
+Genre: Children's
+Composer: Frank Oberpichler
+Disc: 1/1
+mtime: 6286
+song_end
+song_begin: 14 Der dicke Bär will schlafen gehn.mp3
+Time: 168
+Artist: Wolfram Eicke
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Der dicke Bär will schlafen gehn
+Album: Kommt, wir wolln Laterne laufen
+Track: 14/15
+Date: 2013
+Genre: Children's
+Composer: Hans Niehaus/Wolfram Eicke
+Disc: 1/1
+mtime: 6295
+song_end
+song_begin: 15 Sonne, Mond und Sterne.mp3
+Time: 146
+Artist: Rolf Zuckowski & Seine Freunde
+AlbumArtist: Rolf Zuckowski & Seine Freunde
+Title: Sonne, Mond und Sterne
+Album: Kommt, wir wolln Laterne laufen
+Track: 15/15
+Date: 2013
+Genre: Children's
+Composer: Rolf Zuckowski/Traditional
+Disc: 1/1
+mtime: 6300
+song_end
+end: 0009015255

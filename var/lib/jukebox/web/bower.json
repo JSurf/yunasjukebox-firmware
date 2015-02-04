@@ -1,0 +1,11 @@
+{
+    "name": "yunas-jukebox-web",
+    "description": "Web interface for Yunas Yukebox",
+    "version": "1.0.0",
+	"dependencies": {
+	   "angular": "~1.3.0", 
+	   "angular-route": "~1.3.0",   
+	   "bootstrap": "3.3.1",
+	   "ng-flow": "2.5.1"
+	}
+}

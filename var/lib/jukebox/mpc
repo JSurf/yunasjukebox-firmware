@@ -1,0 +1,15 @@
+#!/usr/bin/php
+<?php
+require "vendor/autoload.php";
+require "config.php";
+
+$arg1 = isset($argv[1]) ? $argv[1] : "status";
+$arg2 = isset($argv[2]) ? $argv[2] : ""; 
+$arg3 = isset($argv[3]) ? $argv[3] : ""; 
+
+$mpd = new mpd($config["mpdserver"], 6600);
+$mpd->SendCommand($argv[1],$arg2,$arg3);
+
+print_r($mpd);
+
+$mpd->Disconnect();

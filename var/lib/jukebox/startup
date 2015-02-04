@@ -1,0 +1,31 @@
+#!/bin/sh
+echo "Setting up gpio"
+# amplifier on/off pin 1=on 0=off
+gpio mode 1 out
+gpio write 1 1
+# power led
+gpio mode 25 out
+gpio write 25 1
+# init play/pause prev next
+# init play/pause
+gpio mode 27 in
+gpio mode 27 up
+#init prev
+gpio mode 0 in
+gpio mode 0 up
+#prev led
+gpio mode 3 out
+gpio write 3 1
+#init next
+gpio mode 4 in
+gpio mode 4 up
+#next led
+gpio mode 2 out
+gpio write 2 1
+echo "Starting up mpd RFID listener"
+cd /var/lib/jukebox
+php playpause.php &
+php prev.php &
+php next.php &
+php powersave.php &
+php rfidlisten.php

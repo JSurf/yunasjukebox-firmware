@@ -1,0 +1,8 @@
+{
+    "require": {
+       "monstergfx/php-mpd-client": "dev-master",
+	   "flowjs/flow-php-server": "0.2.1",
+	   "silex/silex": "~1.2",	   
+	   "jsurf/mpd.class.php": "dev-master"
+    }
+}

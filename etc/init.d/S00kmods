@@ -1,0 +1,24 @@
+#!/bin/sh
+#
+# Load drivers
+#
+
+case "$1" in
+  start)
+	echo -n "Load kernel drivers: "
+	modprobe snd-bcm2835
+	echo "OK"
+	;;
+  stop)
+	echo -n "Unload kernel drivers: "
+        rmmod snd-bcm2835
+	echo "OK"
+	;;
+  restart|reload)
+	;;
+  *)
+	echo "Usage: $0 {start|stop|restart}"
+	exit 1
+esac
+
+exit $?
