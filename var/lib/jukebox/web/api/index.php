@@ -65,7 +65,7 @@ $app->post_p('/rfid/register', function () use($app, $config, $request)
     
     $files = $request->request->get('files');
     foreach ($files as $file) {
-        rename($config["mpdpath"] . '/files/' . $file['relativePath'], $rfidPath . '/' . $file['name']);
+        rename($config["mpdpath"] . '/files/' . $file['relativePath'], $rfidPath . '/' . $file['relativePath']);
     }
     
     $mpd = new mpd($config["mpdserver"], 6600);
